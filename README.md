@@ -1,6 +1,8 @@
 # G24 — afc-distributed-recovery
 
-**Status: PRIVATE CANDIDATE / NEWLY IMPLEMENTED BOUNDED UTILITY.** This is NOT the original unrecovered upstream G24 repository, and is NOT a scientific validation or a public release authorization.
+**Institutional context.** This repository contains an AFC research-software candidate within Invariant Computing Lab. Public visibility is not a blanket software licence, evidence of upstream source recovery, or validation beyond stated bounded tests.
+
+**Status: PUBLICLY VISIBLE BOUNDED RESEARCH CANDIDATE / NEWLY IMPLEMENTED UTILITY.** This is NOT the original unrecovered upstream G24 repository, and is NOT a scientific validation or a public release authorization.
 
 ## Functionality
 
